@@ -1,6 +1,6 @@
 # Vegetable Organic Garden
 
-### Identyfy USDA Plant Hardiness Zone for 90805
+### Identify USDA Plant Hardiness Zone for 90805
 Based on [this](https://planthardiness.ars.usda.gov/PHZMWeb/) website, 90805 has a 10b 35 to 40 (F) hardiness.
 
 |Plant Name|Type|Days to Harvest|Best Start (CA)|
