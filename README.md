@@ -9,3 +9,5 @@
 |Lettuce (Grand Rapids, Tipburn Resistant)|Vegetable|~55|tbd|
 |Onion (White Lisbon Bunching)|Vegetable|~60|tbd|
 |Spinach (Bloomsdale, Long Standing)|Vegetable|~45|tbd|
+|Tomato (Cherry, Large Fruited)|Vegetable|~75|tbd|
+|Tomato (Cherry, Super Sweet 100 Hybrid)|Vegetable|~70|tbd|
